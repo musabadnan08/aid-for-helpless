@@ -1,0 +1,247 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    margin-top: -150px;
+}
+.top-banner{
+    background-image: url(images/donation12.jpg);
+    background-repeat: no-repeat;
+    height: 1100px; 
+}
+.top-banner h1{
+    font-size: 120px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 450px;
+}
+.top-banner h3{
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+.top-banner .donate-button{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    background-color: coral;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.second-banner h1{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+.second-banner h3{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+.blocks{ text-align: center;
+}
+.blocks #a{
+    font-size: 75px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(226, 231, 238);
+}
+.blocks #b{
+    font-size: 75px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(226, 231, 238);
+}
+.blocks #c{
+    font-size: 75px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(226, 231, 238);
+}
+.blocks #d{
+    font-size: 75px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid coral;
+    border-radius: 10px;
+    background-color: rgb(170, 177, 184);
+}
+.blocks #e{
+    font-size: 75px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(226, 231, 238);
+}
+.other-amount{
+    text-align: center;
+    padding: 80px;
+    background-color:white;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+.oat{
+    font-size: 30px;
+    text-align: center;
+    color:black;
+    background-color: white;
+}
+hr{
+    width: 100%;
+}
+.donate-button-two{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    background-color: coral;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.donation-plan h1{
+    margin-top: 180px;
+    font-size: 90px;
+    color: black;
+    text-align: center;
+}
+.donation-plan h3{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.planning-box{
+    display: flex;
+    margin-left: 205px;
+    margin-right: 205px;
+    font-size: 20px;
+    text-align: center;
+}
+#first{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    border: 10px solid whitesmoke;
+    border-radius: 5px;
+    background-color:blanchedalmond;
+}
+#second{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    border: 10px solid whitesmoke;
+    border-radius: 5px;
+    background-color:cornsilk
+}
+#third{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    border: 10px solid whitesmoke;
+    border-radius: 5px;
+    background-color:blanchedalmond
+}
+.situation-now{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 220px;
+    margin-bottom: 220px;
+    font-size: 30px;
+    display: flex; 
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.how-to-contribute{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: coral;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.get-update h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 200px;
+}
+.get-update h3{
+    text-align: center;
+    font-size: 30px;
+}
+.email{
+    text-align: center;
+    padding: 80px;
+    background-color:cornsilk;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+input{
+    display: inline-block;
+    background-color:lightgrey;
+    border-radius: 5px;
+    border: 5px;
+    border-color: azure;
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    width: 400px;
+    margin: -2.5px;
+}
+button{
+    display: inline-block;
+    background-color:coral;
+    border-radius: 5px;
+    border: 5px;
+    border-color: azure;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    width: 200px;
+    margin: -2.5px;
+}
+.footer{
+    margin-top: 200px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(1, 0, 0);
+    font-size: 20px;
+}
+.footer h2{
+    color: coral;
+}
+.footer h4{
+    color: azure;
+}
